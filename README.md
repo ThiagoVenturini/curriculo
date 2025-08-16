@@ -7,11 +7,9 @@ Estruturação semântica com HTML5
 
 Estilização visual responsiva com CSS3
 
-Inclusão de mídias (imagem, vídeo ou áudio)
+Inclusão de mídias (imagem)
 
 Interatividade básica com JavaScript
-
-A proposta é integrar esses pilares para criar uma experiência simples, mas completa, que sirva como introdução ao desenvolvimento de interfaces web modernas.
 
 👨‍💻 Autor
 
